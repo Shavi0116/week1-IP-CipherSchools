@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=
+    , initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .container1{
+            background-color: black;
+            color: blueviolet;
+        }
+
+        .container2{
+            background-color: blue;
+            color: aquamarine;
+        }
+
+        .cls{
+            background-color: black;
+            color: aqua;
+        }
+    </style>
+</head>
+<body>
+    <div class="container1">
+        <h2>heading</h2>
+        <ul>
+            <li>item</li>
+            <li>item</li>
+            <li>item</li>
+            <li>item</li>
+            <li>item</li>
+            <li>item</li>
+            <li>item</li>
+        </ul>
+    </div>
+
+    <div class="container2">
+    <h2>Paragragh <span class="cls">two</span></h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad odit facere blanditiis cumque quidem, dolor mollitia rem, est, vero explicabo nam soluta consequatur quo cupiditate. Eaque, vel? Quibusdam voluptatibus itaque autem illum animi, explicabo esse exercitationem, illo dolorem inventore cumque.</p>
+    </div>
+</body>
+</html>

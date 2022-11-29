@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <h3>Fruits</h3>
+    <ol type="A">
+        <li>Banana</li>
+        <li>Apple</li>
+        <li>Cherry</li>
+    </ol>
+
+    <h3>Books</h3>
+    <ul style="list-style-type:circle">
+        <li>Knox</li>
+        <li>Path to redemption</li>
+        <li>Twisted lies</li>
+    </ul>
+
+    <dl>
+        <dt>Coffee</dt>
+        <dd>makes you go through the dat</dd>
+    </dl>
+</body>
+</html>

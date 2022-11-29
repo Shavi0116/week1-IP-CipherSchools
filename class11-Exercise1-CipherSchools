@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog</title>
+</head>
+<body>
+    <h2>My Blogs</h2>
+    <br><br>
+    <h2>Blog 1</h2>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorem nam molestiae rerum consequatur cupiditate doloribus corrupti voluptatibus ab aut unde harum autem obcaecati quam nihil eligendi veritatis minus quasi, expedita totam suscipit fugiat quis aperiam earum? Ab sunt fugit veniam quisquam nemo veritatis illo incidunt ipsa recusandae in aliquid dolor harum ratione id molestias magnam labore, praesentium minus fuga quia repudiandae. Nulla cumque itaque labore rem ex minima blanditiis quaerat quam aliquid iste ipsam quos eos necessitatibus voluptates ab quis velit, obcaecati et ullam voluptatem, laudantium odit qui error. Impedit illum nihil porro quibusdam dicta rem expedita nam repellat accusantium dolore ut voluptatem sapiente sed, iste voluptatum doloremque rerum laudantium commodi earum numquam ullam magni? Repellat, iure quos. Earum repellendus illum tempore nobis voluptas, cupiditate impedit. Iure illum maxime commodi asperiores possimus tempore iste aliquid deserunt cupiditate quidem dolores voluptatem consequuntur perspiciatis soluta, nihil odio magnam alias eaque dolore. Illo!</p>
+      <h2>Blog 2</h2>
+      <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam iste, laborum voluptate facere atque possimus veritatis sequi harum nihil. Quis suscipit optio ipsa vel id! Fuga explicabo fugit delectus obcaecati dicta maiores, autem, dolores nam corrupti error accusamus cum deleniti, nihil dolor exercitationem doloremque. Non, deleniti? Iste amet optio debitis! Modi rerum, aut nisi ducimus deleniti nihil dolores pariatur rem debitis, id ea quibusdam eligendi vel! Nam labore voluptas officia placeat perferendis, nemo explicabo sit iste cupiditate consequatur unde dicta culpa qui dolores! Tenetur ipsum, nisi enim, sed facilis accusamus at corporis voluptates voluptatibus excepturi laboriosam doloribus dolorem a praesentium omnis, aspernatur libero porro officiis. Quaerat minus ad a impedit doloribus, reprehenderit quos architecto. Voluptate veritatis quidem deleniti, inventore veniam nobis cum ullam praesentium! Officia culpa voluptatibus perspiciatis, sint qui a aliquam cupiditate enim magnam illum commodi, animi necessitatibus minus incidunt ullam ipsum. Eius suscipit omnis nesciunt facere ipsum rem.</p>
+    
+</body>
+</html>
